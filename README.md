@@ -1,6 +1,6 @@
 #  Cardápio Digital com React
 
-[![Tecnologias](https://skillicons.dev/icons?i=react,js,css&theme=dark)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=react,js,html,css&theme=dark)](https://skillicons.dev)
 
 ## Descrição
 
@@ -19,6 +19,7 @@ O projeto utiliza Hooks do React, como `useState` para gerenciar a categoria sel
 
 - React
 - JavaScript (ES6)
+- HTML
 - CSS (para estilização)
 - Vite (como bundler e dev server)
 
